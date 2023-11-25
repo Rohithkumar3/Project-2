@@ -1,0 +1,8 @@
+101 Rohithkumar Male    Computer Science
+102 Rajesh      Male    Mechanical
+103 Ajith       Male    Electrical
+104 Pooja       Female  Mechanical
+105 Srihitha    Female  Computer Science
+106 Kiran       Male    Electrical
+107 Priyanka    Female  Computer Science
+108 Kalyan      Male    Mechanical

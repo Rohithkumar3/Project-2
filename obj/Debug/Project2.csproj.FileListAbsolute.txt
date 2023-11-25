@@ -1,0 +1,14 @@
+C:\Users\gande\OneDrive\Desktop\Project2\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+C:\Users\gande\OneDrive\Desktop\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\gande\OneDrive\Desktop\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\gande\OneDrive\Desktop\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\gande\OneDrive\Desktop\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\gande\OneDrive\Desktop\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\gande\OneDrive\Desktop\Project2\Project2\obj\Debug\Project2.pdb
+C:\simplilearn\Project2\Project2\bin\Debug\Project2.exe.config
+C:\simplilearn\Project2\Project2\bin\Debug\Project2.exe
+C:\simplilearn\Project2\Project2\bin\Debug\Project2.pdb
+C:\simplilearn\Project2\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+C:\simplilearn\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\simplilearn\Project2\Project2\obj\Debug\Project2.exe
+C:\simplilearn\Project2\Project2\obj\Debug\Project2.pdb

@@ -21,7 +21,6 @@ namespace Project2
                 }
                 Console.ReadKey();
             }
-
             static List<string> ReadStudentData(string filePath)
             {
                 List<string> Studentdata = new List<string>();
